@@ -1,0 +1,12 @@
+venv
+__pycache__
+db.sqlite3
+.env
+commands
+test
+resources
+uploads/user-profiles/*
+docker-compose.local.yaml
+staticfiles
+media
+KPI/services/lead_assign_service.py
